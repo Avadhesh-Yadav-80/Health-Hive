@@ -15,6 +15,11 @@ Information collected is stored in the cloud server (MongoDB) and a block is cre
 
 Note : No blockchain implementation is used. A custom highly level blockchain like architecture is developed to replicate the blockchain functionality. 
 
+## Home Page 
+
+![image](https://github.com/Avadhesh-Yadav-80/Health-Hive/assets/111857428/431a8227-f6e3-4b0b-9e80-73f4afcbafd9)
+
+
 # Demo login
 
 ## PATIENT
