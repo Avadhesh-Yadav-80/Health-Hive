@@ -59,7 +59,7 @@ Requirements : Python 3.x version
 
 1. Clone the project to local directory
    
-   <i>git clone https://github.com/antoprince001/Blockchain_for_EHR.git</i>
+   <i>git clone https://github.com/Avadhesh-Yadav-80/Health-Hive.git</i>
    
 2. Change directory to cloned project 
  
