@@ -78,5 +78,5 @@ Requirements : Python 3.x version
    - Create a cluster and retrieve the connection url
    - Update the connection URL in Line 61 of app.py file
 
-6. View the website live at http://localhost:5000/
+6. View the website live at http://127.0.0.1:5000/
 
